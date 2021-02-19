@@ -3,6 +3,7 @@
 *Plugin Name: zita-blocks
 *slug: zita-blocks
 * Text Domain: zita-blocks
+* version:2
 */
 if (!defined('ABSPATH')) exit;
 if (!defined('ZITA_BLOCKS_PRO')) {
